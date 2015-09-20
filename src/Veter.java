@@ -3,7 +3,7 @@
  */
 public class Veter {
     public static void main(String args[]) {
-        System.out.println("Привет народ!");
+        System.out.println("Привет народ хай!");
 
     }
 }
